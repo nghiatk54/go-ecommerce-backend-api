@@ -1,0 +1,3 @@
+### checkstatus by docker
+
+GET http://localhost:8002/v1/2024/checkStatus
